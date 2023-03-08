@@ -1,9 +1,7 @@
- 
- Links ausgerichtet | Mittig ausgerichtet | Rechts ausgerichtet |
 
-|:------------------ |:-------------------:| -------------------:|
+Pos	Anzahl		Bezeichnung		EP		Gesamt		Bemerkung		Link
 
-| Inhalt             | Inhalt              | Inhalt              |
-| Inhalt             | Inhalt              | Inhalt              |
-
-# #hallo ##
+1	1	|	Soyosource 1200	|	221,73	|	221,73	|	inc Zoll und Transport geht nicht mehr	|	https://de.aliexpress.com/item/1005003799500434.html?spm=a2g0o.detail.0.0.648937dbHfYhmD&gps-id=pcDetailBottomMoreThisSeller&scm=1007.13339.274681.0&scm_id=1007.13339.274681.0&scm-url=1007.13339.274681.0&pvid=3a2fd11d-d354-4dc9-b744-4e6962d2e9d1&_t=gps-id%3ApcDetailBottomMoreThisSeller%2Cscm-url%3A1007.13339.274681.0%2Cpvid%3A3a2fd11d-d354-4dc9-b744-4e6962d2e9d1%2Ctpp_buckets%3A668%232846%238107%231934&pdp_ext_f=%7B%22sku_id%22%3A%2212000027206979269%22%2C%22sceneId%22%3A%223339%22%7D&pdp_npi=2%40dis%21EUR%21%21164.66%21%21%21%21%21%40211b5e2216563319395058218ef767%2112000027206979269%21rec&gatewayAdapt=glo2deu2
+4	2	|	USB RS 485 Konverter	|	1,50	|	3,00	|	ähnlichen verwendet	|	https://de.aliexpress.com/item/1005002260964199.html?spm=a2g0o.order_list.0.0.5a505c5fN3lvS0&gatewayAdapt=glo2deu
+5		|		|		|		|	besser (3,3 und 5V)	|	https://de.aliexpress.com/item/1005001621746811.html?spm=a2g0o.productlist.0.0.59b11ea8FsAXHW&algo_pvid=78f448a5-e9b1-4b81-90c3-787272de7475&aem_p4p_detail=2022062705215010326504214210800059934849&algo_exp_id=78f448a5-e9b1-4b81-90c3-787272de7475-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000016846569467%22%7D&pdp_npi=2%40dis%21EUR%21%210.65%21%21%211.2%21%21%402100bdcf16563325107027158e802e%2112000016846569467%21sea
+![grafik](https://user-images.githubusercontent.com/125013125/223680168-303d4bb0-1760-4113-8676-f5d3c5de4190.png)
